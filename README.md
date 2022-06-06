@@ -13,3 +13,9 @@
 ![december_stats](https://user-images.githubusercontent.com/102084269/172087667-3dde01d0-2449-4549-bd50-b2edc3a9b5ed.PNG)
 
 With these results we were able to determine that June had an average temperature of 75 degrees farenheit while December had an average temperature of 71 degrees farenheit
+- Additional findings
+![rain_by_month](https://user-images.githubusercontent.com/102084269/172088127-9de413a6-ae89-49bd-a771-3c742d571b15.PNG)
+With this visualization we can see that conversely to the temperature, December has the highest rainfall
+
+# Summary 
+Our potential Investors primary concern with their Surf and Ice Cream shop was weather conditions, with our analysis we can see that the temperature is rather static with only one month 2 months of heavy rainfall.
