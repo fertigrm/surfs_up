@@ -12,7 +12,10 @@
 ![December_temps](https://user-images.githubusercontent.com/102084269/172087487-4dc67328-76ed-483a-84b8-62749c9b088d.PNG)
 ![december_stats](https://user-images.githubusercontent.com/102084269/172087667-3dde01d0-2449-4549-bd50-b2edc3a9b5ed.PNG)
 
-With these results we were able to determine that June had an average temperature of 75 degrees farenheit while December had an average temperature of 71 degrees farenheit
+With these results we were able to determine:
+- June had an average temperature of 75 degrees farenheit
+- December had an average temperature of 71 degrees farenheit
+- December has more rainfall than June
 - Additional findings
 ![rain_by_month](https://user-images.githubusercontent.com/102084269/172088127-9de413a6-ae89-49bd-a771-3c742d571b15.PNG)
 With this visualization we can see that conversely to the temperature, December has the highest rainfall
